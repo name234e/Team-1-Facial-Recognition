@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(255, 255, 255, 0.627);
+    margin: 50px;
+}
+
+h1 {
+    color: orange;
+    font-size: 50px;
+    text-align: center
+}
+
+#topPage {
+    display: flex;
+    justify-content: center;
+}
+
+#topPage a {
+    padding: 10px;
+    font-size: 30px;
+}
